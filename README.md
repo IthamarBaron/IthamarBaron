@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi There! im Ithamar:
 🌎 I’m currently working on "EarthRise" a 3d Multiplayer game in the Unity game engine.<br>🤝 I’m collaborating with Sahar Gazit in Weiser Industries.<br>🌱 I’m currently learning Batch.<br>💬 Ask me about anything!
 
 
@@ -19,4 +19,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=IthamarBaron&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IthamarBaron&icon=5&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=IthamarBaron&icon=5&color=4)]()
