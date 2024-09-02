@@ -12,8 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IthamarBaron&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IthamarBaron&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IthamarBaron&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=IthamarBaron&icon=5&color=4)]()
