@@ -1,4 +1,4 @@
-# 👋 Hi There! im Ithamar:
+# 👋 Hi There! im Ithamar.
 🌎 I’m currently working on "EarthRise" a 3d Multiplayer game in the Unity game engine.<br>🤝 I’m collaborating with Sahar Gazit in Weiser Industries.<br>🌱 I’m currently learning Batch.<br>💬 Ask me about anything!
 
 
