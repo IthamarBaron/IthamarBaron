@@ -1,5 +1,5 @@
 # 👋 Hi There! im Ithamar.
-🌎 I’m currently working on "EarthRise" a 3d Multiplayer game in the Unity game engine.<br>🤝 I’m collaborating with [@Sahar Gazit](https://github.com/SaharGazit)! in Weiser Industries.<br>🌱 I’m currently learning in Ort Hermelin.<br>💬 Ask me about anything!
+🌎 I’m currently working on "EarthRise" a 3d Multiplayer game in the Unity game engine.<br>🤝 I’m collaborating with [Sahar Gazit](https://github.com/SaharGazit) in Weiser Industries.<br>🌱 I’m currently learning in Ort Hermelin.<br>💬 Ask me about anything!
 
 
 ## 🌐 Socials:
