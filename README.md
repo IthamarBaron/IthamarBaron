@@ -13,4 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IthamarBaron&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IthamarBaron&icon=5&color=4)]()
+[![](https://visitcount.itsvg.in/api?id=IthamarBaron&icon=5&color=9)]()
