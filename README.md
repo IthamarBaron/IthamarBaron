@@ -1,5 +1,5 @@
 # 👋 Hi There! im Ithamar.
-🇺🇸 I’m currently in a very long vacation .<br>🤝 I’m collaborating with [Sahar Gazit](https://github.com/SaharGazit) in Weiser Industries.<br>🪖 Im starting military service aoon.<br>💬 Ask me about my projects!
+🇺🇸 I’m currently in a very long vacation.<br>🪖 Im starting military service soon.<br>💬 Ask me about my projects!
 
 
 ## 🌐 Socials:
