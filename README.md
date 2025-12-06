@@ -1,5 +1,5 @@
 # 👋 Hi There! im Ithamar.
-🇺🇸 I’m currently in a very long vacation.<br>🪖 Im starting military service soon.<br>💬 Ask me about my projects!
+🟢 I really like the color green ;).<br>🦔 I think hedgehogs are really great!.<br>💬 Ask me about my projects!
 
 
 ## 🌐 Socials:
