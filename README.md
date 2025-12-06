@@ -1,5 +1,5 @@
 # 👋 Hi There! im Ithamar.
-🟢 I really like the color green ;).<br>🦔 I think hedgehogs are really great!.<br>💬 Ask me about my projects!
+🟢 I really like the color green ;)<br>🦔 I think hedgehogs are really great!<br>💬 Ask me about my projects!
 
 
 ## 🌐 Socials:
